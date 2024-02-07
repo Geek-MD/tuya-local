@@ -82,6 +82,7 @@
 - Star-Light air conditioner (also confirmed to work with Polar branded devices)
 - Suntec Wellness Coolfixx portable air conditioner
 - Tadiran Wind 65/3P
+- Tesla TAF series air conditioner
 - TroniTechnik Hellnar Klimagerät
 - Trotec PAC-W 2600 SH heatpump
 - Vivax Cool ACP-12CH35REWI
@@ -99,7 +100,7 @@
 - Madimack Eco pool heatpump
 - Madimack Elite V3 pool heatpump
 - Madimack(model unknown) pool heatpump (seems to match Fairland IPH45 as well)
-- Poolex Silverline, Q-7, Q-line and Vertigo heatpumps
+- Poolex Silverline, Q-7, Q-line, Arctic and Vertigo heatpumps
 - Remora pool heatpump
 - W'eau pool heatpump (simple model and a more complex 13kW model)
 
@@ -122,6 +123,7 @@
 ### Thermostats
 
 - Arlec PCTH01HA temperature/humidity smart switch
+- Avatto ME81 thermostat
 - Avatto WT100 thermostat
 - Awow/Mi-heat TH213 thermostat (two variants)
 - Beca BAC-002 thermostat
@@ -390,6 +392,7 @@ generic configurations that basically follow Tuya's templates with
 different features enabled, so are known to work with multiple brands
 of device.
 
+- 2 outlet plus 2 USB smartplug with individual timers
 - 4 way power monitoring strip (2 types)
   _confirmed as working with Kogan KASPS10A3P3UA 3 socket + USB powerstrip_
 - 4 way powerstrip with USB
@@ -596,6 +599,7 @@ port and password.
 - Haier Nayun NY-GS-04 combustible gas alarm
 - Holman WX1 tap timer (sprinkler controller)
 - Holman WX2 dual tap timer
+- Holman WX8 8 sprinkler irrigation controller
 - Inkbird PTH-9CW air quality monitor
 - KKMoon 7in1 air quality monitor
 - Kogan bidet toilet seat
@@ -633,6 +637,7 @@ port and password.
 - Diivoo WT05 dual water timer
 - HCT-611 water timer
 - HU06 smart lock
+- Ironzon fingerprint lock
 - Orion DL021HA lock
 - PT216/PT19DB-2 temperature and humidity sensor
 - Smart Ape solar garden light
